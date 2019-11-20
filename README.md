@@ -1,4 +1,4 @@
-# Automatic Segmentation model testing
+# Semi-Automatic Segmentation model testing
 Test models and image pre-processing techniques to find the best combination.
 
 ## Usage
